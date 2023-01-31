@@ -12,7 +12,11 @@ Car: Suzuki Jimney
 
 Apparently I'm not good at English, so typo / grammar corrections are welcome.
 
-`tkoyama at aaload.com`
+Please make pull requests at
+
+https://github.com/minebreaker/journey-in-japan
+
+Email: `tkoyama at aaload.com`
 
 *Note that the email may not be reliable.*
 
