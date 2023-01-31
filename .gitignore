@@ -1,5 +1,6 @@
-/out
+out
 
 **/bak
 
-/firebase-debug.log
+firebase-debug.log
+.firebase
