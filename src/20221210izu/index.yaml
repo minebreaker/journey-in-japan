@@ -1,0 +1,73 @@
+title:
+  default: Dec 10-11, 2022 Izu, Shizuoka
+  ja: 2022年12月10-11日 伊豆
+
+cells:
+  - type: text
+    tag: h1
+    column: 2
+    text:
+      default: Dec 10-11, 2022 Izu, Shizuoka
+      ja: 2022年12月10-11日 伊豆
+
+  - type: image
+    src: 001.jpg
+    column: 2
+    row: 2
+
+  - type: text
+    text:
+      default: |
+        I took a short trip to <a href="https://en.wikipedia.org/wiki/Izu_Peninsula">Izu</a>, known as a good touring spot.
+        I'm a little tired of working with computers and need some breaks and onsen.
+        Sorry for bad photo qualities!
+      ja: |
+        伊豆に小旅行に出かけました。
+    column: 2
+
+  - type: text
+    text:
+      default: Joren waterfall (浄蓮の滝)
+      ja: 浄蓮の滝
+  - type: image
+    src: 002.jpg
+
+  - type: text
+    text:
+      default: Shirahama Shrine (白浜神社)
+      ja: 白浜神社
+  - type: image
+    src: 003.jpg
+  - type: image
+    src: 004.jpg
+  - type: image
+    src: 005.jpg
+  - type: image
+    src: 006.jpg
+  - type: image
+    src: 007.jpg
+    column: 4
+
+  - type: text
+    text:
+      default: Ryu-gu-kutsu (龍宮窟), famous for its heart-shaped cave. Honestly not that impressive...
+      ja: 龍宮窟
+  - type: image
+    src: 008.jpg
+  - type: image
+    src: 009.jpg
+  - type: image
+    src: 010.jpg
+
+  - type: text
+    text:
+      default: Mt. Fuji from Izu sky line
+      ja: 伊豆スカイラインからの富士山
+  - type: image
+    src: 011.jpg
+
+  - type: text
+    text:
+      default: Back
+      ja: 戻る
+    link: /

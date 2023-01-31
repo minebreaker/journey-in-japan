@@ -1,0 +1,8 @@
+title:
+  default: About
+  ja: このサイトについて
+
+text:
+    src:
+        default: index.md
+        ja: index.ja.md

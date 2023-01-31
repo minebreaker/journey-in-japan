@@ -1,0 +1,8 @@
+siteTitle:
+  default: Journey in Japan
+  ja: 日本の旅
+
+style:
+  backgroundColor: "#ffe4e2"
+  cellBackgroundColor: "#b3424a"
+  cellBackgroundColorSecondary: "#ffb3b4"

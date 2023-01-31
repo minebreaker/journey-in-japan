@@ -1,0 +1,26 @@
+title:
+  default: Top
+  ja: トップページ
+
+cells:
+  - type: text
+    tag: h1
+    column: 2
+    text:
+      default: Journey in Japan
+      ja: 日本の旅
+
+  - type: text
+    text:
+      default: Dec 10-11, 2022 Izu, Shizuoka
+      ja: 2022年12月10-11日 伊豆
+    link: ./20221210izu
+  - type: image
+    src: 001.jpg
+    link: ./20221210izu
+
+  - type: text
+    text:
+      default: About
+      ja: このサイトについて
+    link: ./about
