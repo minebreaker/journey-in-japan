@@ -24,6 +24,12 @@ cells:
       ja: |
         伊豆に小旅行に出かけました。
     column: 2
+  - type: raw
+    content:
+      default: |
+        <iframe class="map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=138.6680603027344%2C34.62868797377061%2C139.2778015136719%2C35.1356330179272&amp;layer=mapnik"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=11/34.8826/138.9729">View Larger Map</a></small>
+      ja: |
+        <iframe class="map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=138.6680603027344%2C34.62868797377061%2C139.2778015136719%2C35.1356330179272&amp;layer=mapnik"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=11/34.8826/138.9729">大きな地図を表示</a></small>
 
   - type: text
     text:

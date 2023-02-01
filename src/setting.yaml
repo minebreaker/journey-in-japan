@@ -6,3 +6,9 @@ style:
   backgroundColor: "#ffe4e2"
   cellBackgroundColor: "#b3424a"
   cellBackgroundColorSecondary: "#ffb3b4"
+  raw: |
+    .map {
+      border: none;
+      width: 100%;
+      height: calc(100% - 1.5em);
+    }
