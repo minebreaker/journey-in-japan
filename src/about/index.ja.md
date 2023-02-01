@@ -5,6 +5,8 @@
 バイク: ヤマハMT-25  
 車: スズキジムニー
 
+<img src="mt25.jpg" alt="MT-25" class="md-photo"></img>
+
 
 # ライセンス
 
@@ -15,3 +17,7 @@
 ## オープンソース
 
 * [normalize.css](https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
+
+
+
+[Top](/)

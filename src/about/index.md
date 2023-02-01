@@ -7,6 +7,8 @@ I'm a Japanese computer programmer, living in Hanno city, Saitama.
 Motorcycle: YAMAHA MT-25  
 Car: Suzuki Jimney
 
+<img src="mt25.jpg" alt="MT-25" class="md-photo"></img>
+
 
 ## Contact
 
@@ -30,3 +32,7 @@ Photos: CC BY-SA 4.0
 ## Open source
 
 * [normalize.css](https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
+
+
+
+[Top](/)
