@@ -7,7 +7,7 @@
 
 <img src="mt25.jpg" alt="MT-25" class="md-photo"></img>
 
-誤字などを見つけたら、[https://github.com/minebreaker/journey-in-japan](GitHub)にプルリクエストを頂けると幸いです。
+誤字などを見つけたら、[GitHub](https://github.com/minebreaker/journey-in-japan)にプルリクエストを頂けると幸いです。
 
 
 # 支援
