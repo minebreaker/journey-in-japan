@@ -14,13 +14,18 @@ Car: Suzuki Jimney
 
 Apparently I'm not good at English, so typo / grammar corrections are welcome.
 
-Please make pull requests at
-
-https://github.com/minebreaker/journey-in-japan
+Please make pull requests at [GitHub](https://github.com/minebreaker/journey-in-japan)
 
 Email: `tkoyama at aaload.com`
 
-*Note that the email may not be reliable.*
+*Note that the email may not be reliably delivered.*
+
+
+# Support
+
+I'm glad if you help me keep this site up.
+
+[Wishlist for Amazon.co.jp](https://www.amazon.jp/hz/wishlist/ls/TU2U5BWI29NB?ref_=wl_share)
 
 
 # License
