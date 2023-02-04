@@ -10,6 +10,17 @@ cells:
       default: Journey in Japan
       ja: 日本の旅
 
+
+
+  - type: text
+    text:
+      default: Nov 23-26, 2022 Miyazaki
+      ja: 2023年11月26-27日 宮崎
+    link: ./20221123miyazaki
+  - type: image
+    src: 002.jpg
+    link: ./20221123miyazaki
+
   - type: text
     text:
       default: Dec 10-11, 2022 Izu, Shizuoka
@@ -18,6 +29,8 @@ cells:
   - type: image
     src: 001.jpg
     link: ./20221210izu
+
+
 
   - type: text
     text:

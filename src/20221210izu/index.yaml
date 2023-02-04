@@ -7,7 +7,7 @@ cells:
     tag: h1
     column: 2
     text:
-      default: Dec 10-11, 2022 Izu, Shizuoka
+      default: Dec 10-11, 2022 Izu (伊豆), Shizuoka
       ja: 2022年12月10-11日 伊豆
 
   - type: image
@@ -18,7 +18,7 @@ cells:
   - type: text
     text:
       default: |
-        I took a short trip to <a href="https://en.wikipedia.org/wiki/Izu_Peninsula">Izu</a>, known as a good touring spot.
+        I took a short trip to <a href="https://en.wikipedia.org/wiki/Izu_Peninsula">Izu (伊豆)</a>, known as a good touring spot.
         I'm a little tired of working with computers and need some breaks and onsen.
         Sorry for bad photo qualities!
       ja: |
@@ -72,6 +72,11 @@ cells:
   - type: image
     src: 011.jpg
 
+  - type: text
+    text:
+      default: Help this website
+      ja: このサイトを支援
+    link: https://www.amazon.jp/hz/wishlist/ls/TU2U5BWI29NB?ref_=wl_share
   - type: text
     text:
       default: Back

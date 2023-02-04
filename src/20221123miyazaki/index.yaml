@@ -1,0 +1,201 @@
+title:
+  default: Nov 23-26, 2022 Miyazaki
+  ja: 2023年11月26-27日 宮崎
+
+cells:
+  - type: text
+    tag: h1
+    column: 2
+    text:
+      default: Nov 23-26, 2022 Miyazaki (宮崎)
+      ja: 2023年11月26-27日 宮崎
+
+  - type: image
+    src: 001.jpg
+    column: 2
+    row: 2
+
+  - type: text
+    text:
+      default: |
+        I traveled around Miyazaki to visit famous shrines and scenic spots.
+        Since it's far away from Saitama (where I live), I flew in airplanes and used a rental car instead of my Jimney.
+      ja: |
+        宮崎旅行に行きました。飛行機を使ったため、レンタカーでの旅でした。
+    column: 2
+  - type: raw
+    content:
+      default: |
+        <iframe class="map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=131.11564636230472%2C31.820397629997018%2C131.9657135009766%2C32.344001590416354&amp;layer=mapnik"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=11/32.0826/131.5407">View Larger Map</a></small>
+      ja: |
+        <iframe class="map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=131.11564636230472%2C31.820397629997018%2C131.9657135009766%2C32.344001590416354&amp;layer=mapnik"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=11/32.0826/131.5407">大きな地図を表示</a></small>
+
+  - type: text
+    text:
+      default: |
+        Amano-iwato Jinja (天岩戸神社)
+        This shrine is famous as a place of the Amano-iwato myth.
+        It's prohibited to take pictures of the actual Amano-iwato because it's considered as a sacred place
+      ja: 天岩戸神社
+    column: 2
+  - type: image
+    src: 002.jpg
+  - type: image
+    src: 003.jpg
+  - type: image
+    src: 004.jpg
+  - type: image
+    src: 005.jpg
+  - type: image
+    src: 006.jpg
+
+
+  - type: text
+    text:
+      default: |
+        Takachiho Jinja (高千穂神社)
+      ja: 高千穂神社
+  - type: image
+    src: 010.jpg
+  - type: image
+    src: 011.jpg
+  - type: image
+    src: 012.jpg
+  - type: image
+    src: 013.jpg
+
+
+  - type: text
+    text:
+      default: |
+        Takachiho Kyo (高千穂峡)
+      ja: 高千穂峡
+  - type: image
+    src: 020.jpg
+  - type: image
+    src: 021.jpg
+  - type: image
+    src: 022.jpg
+    column: 2
+    row: 2
+  - type: image
+    src: 023.jpg
+  - type: image
+    src: 024.jpg
+  - type: image
+    src: 025.jpg
+  - type: image
+    src: 026.jpg
+  - type: image
+    src: 027.jpg
+  - type: image
+    src: 028.jpg
+  - type: image
+    src: 029.jpg
+  - type: image
+    src: 030.jpg
+    row: 2
+  - type: text
+    text:
+      default: |
+        You can enjoy kayaking in the valley and observe columnar jointings closely.
+      ja: カヤックで柱状節理を観察できます。
+  - type: image
+    src: 031.jpg
+  - type: image
+    src: 032.jpg
+
+
+  - type: text
+    text:
+      default: Umagase (馬ケ背)
+      ja: 馬ケ背
+  - type: image
+    src: 040.jpg
+  - type: image
+    src: 041.jpg
+
+
+  - type: text
+    text:
+      default: Ohmi Jinja (大御神社) & Udo Jinja (鵜戸神社) - famous for a view from the cave that looks like a dragon ...or whatever.
+      ja: 大御神社・鵜戸神社
+  - type: image
+    src: 050.jpg
+  - type: image
+    src: 051.jpg
+
+
+  - type: text
+    text:
+      default: Miyazaki Jingu (宮崎神宮)
+      ja: 宮崎神宮
+  - type: image
+    src: 060.jpg
+
+
+  - type: text
+    text:
+      default: Udo Jingu (鵜戸神宮) - very famous for the shrine in the cave.
+      ja: 鵜戸神宮
+  - type: image
+    src: 070.jpg
+  - type: image
+    src: 071.jpg
+  - type: image
+    src: 072.jpg
+  - type: image
+    src: 073.jpg
+    row: 2
+    column: 2
+  - type: image
+    src: 074.jpg
+  - type: image
+    src: 075.jpg
+  - type: image
+    src: 076.jpg
+
+
+  - type: text
+    text:
+      default: Short cruise near Nango (南郷)
+      ja: 南郷でのクルーズ
+  - type: image
+    src: 080.jpg
+  - type: image
+    src: 081.jpg
+
+
+  - type: text
+    text:
+      default: Aoshima & Aoshima Jinja
+      ja: 青島神社
+  - type: image
+    src: 090.jpg
+  - type: image
+    src: 091.jpg
+  - type: image
+    src: 092.jpg
+  - type: image
+    src: 093.jpg
+  - type: image
+    src: 094.jpg
+  - type: image
+    src: 095.jpg
+  - type: image
+    src: 096.jpg
+  - type: image
+    src: 097.jpg
+
+
+
+  - type: text
+    text:
+      default: Help this website
+      ja: このサイトを支援
+    link: https://www.amazon.jp/hz/wishlist/ls/TU2U5BWI29NB?ref_=wl_share
+  - type: text
+    text:
+      default: Back
+      ja: 戻る
+    link: /
