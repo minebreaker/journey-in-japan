@@ -48,6 +48,8 @@ cells:
     src: 005.jpg
   - type: image
     src: 006.jpg
+  - type: image
+    src: 007.jpg
 
 
   - type: text
@@ -63,6 +65,8 @@ cells:
     src: 012.jpg
   - type: image
     src: 013.jpg
+  - type: image
+    src: 014.jpg
 
 
   - type: text
@@ -124,6 +128,8 @@ cells:
     src: 050.jpg
   - type: image
     src: 051.jpg
+  - type: image
+    src: 052.jpg
 
 
   - type: text
@@ -132,6 +138,8 @@ cells:
       ja: 宮崎神宮
   - type: image
     src: 060.jpg
+  - type: image
+    src: 061.jpg
 
 
   - type: text
@@ -154,6 +162,8 @@ cells:
     src: 075.jpg
   - type: image
     src: 076.jpg
+  - type: image
+    src: 077.jpg
 
 
   - type: text
@@ -186,7 +196,29 @@ cells:
     src: 096.jpg
   - type: image
     src: 097.jpg
+  - type: image
+    src: 098.jpg
 
+  - type: text
+    text:
+      default: |
+        Foods
+        You can enjoy good quality of sushi and sashimi.
+      ja: 食事
+  - type: image
+    src: 100.jpg
+  - type: image
+    src: 101.jpg
+  - type: image
+    src: 102.jpg
+  - type: image
+    src: 103.jpg
+  - type: image
+    src: 104.jpg
+  - type: image
+    src: 105.jpg
+  - type: image
+    src: 106.jpg
 
 
   - type: text
