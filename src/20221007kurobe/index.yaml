@@ -1,0 +1,146 @@
+title:
+  default: Oct 07-09, 2022, Kurobe Alpine Route & Kamikochi
+  ja: 2022年10月07-09日 黒部アルペンルート・上高地
+
+cells:
+  - type: text
+    tag: h1
+    column: 2
+    text:
+      default: Oct 07-09, 2022, Kurobe Alpine Route & Kamikochi
+      ja: 2022年10月07-09日 黒部アルペンルート・上高地
+
+  - type: image
+    src: 001.jpg
+    column: 2
+    row: 2
+
+  - type: text
+    text:
+      default: |
+        My father and I participated in a tour that goes through Kurobe Alpine Route.
+        The Kurobe Alpine Route is a route that runs from Tateyama to Ohmachi through the Japanese Northern Alps, using ropeways, buses and cable cars.
+      ja: |
+        黒部アルペンルートを富山側から通るツアーに参加しました。
+    column: 2
+
+
+  - type: text
+    text:
+      default: |
+        First day, we took a <a target="_blank" href="https://en.wikipedia.org/wiki/Kurobe_Gorge_Railway">Kurobe Goge Railway</a>. It was a rainy day, so it was a bit uncomfortable to ride the train without windows.
+      ja: |
+        初日は、黒部峡谷鉄道に乗りました。
+  - type: image
+    src: 010.jpg
+  - type: image
+    src: 011.jpg
+  - type: image
+    src: 012.jpg
+  - type: image
+    src: 013.jpg
+  - type: image
+    src: 014.jpg
+  - type: image
+    src: 015.jpg
+    row: 2
+  - type: image
+    src: 016.jpg
+  - type: image
+    src: 017.jpg
+  - type: image
+    src: 018.jpg
+
+  - type: image
+    src: 020.jpg
+
+
+  - type: text
+    text:
+      default: |
+        Day 2. We climbed the Kurobe Alpine Route and moved to Nagano.
+      ja: |
+        二日目は黒部アルペンルートを登ります。
+  - type: image
+    src: 030.jpg
+  - type: image
+    src: 031.jpg
+  - type: image
+    src: 032.jpg
+  - type: image
+    src: 033.jpg
+  - type: image
+    src: 034.jpg
+  - type: image
+    src: 035.jpg
+  - type: image
+    src: 036.jpg
+  - type: image
+    src: 037.jpg
+  - type: image
+    src: 038.jpg
+  - type: image
+    src: 039.jpg
+
+
+  - type: text
+    text:
+      default: |
+        Kurobe Dam - the most famous dam in Japan
+      ja: |
+        黒部ダム
+  - type: image
+    src: 050.jpg
+  - type: image
+    src: 051.jpg
+  - type: image
+    src: 052.jpg
+  - type: image
+    src: 054.jpg
+    column: 2
+    row: 2
+  - type: image
+    src: 055.jpg
+  - type: image
+    src: 056.jpg
+  - type: image
+    src: 057.jpg
+  - type: image
+    src: 058.jpg
+
+
+  - type: text
+    text:
+      default: |
+        Kamikochi. It's an "entrance to the Japanese Alps".
+      ja: |
+        上高地
+  - type: image
+    src: 070.jpg
+  - type: text
+    text:
+      default: |
+        Sanzoku-yaki (bandit-style fried chicken) Curry
+      ja: |
+        山賊焼きカレー
+  - type: image
+    src: 071.jpg
+  - type: image
+    src: 072.jpg
+  - type: image
+    src: 073.jpg
+  - type: image
+    src: 074.jpg
+  - type: image
+    src: 075.jpg
+  - type: image
+    src: 076.jpg
+  - type: text
+    text:
+      default: |
+        <a href="https://en.wikipedia.org/wiki/Mount_Hotakadake">Oku-Hotaka-Dake.</a>
+        Someday I want to climb it...
+      ja: |
+        奥穂高岳
+  - type: image
+    src: 077.jpg
